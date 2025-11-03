@@ -4,7 +4,7 @@ The categorized verbal protocol data from a study of 30 participants in a treasu
 
 ## Overview
 This repository contains the .csv dataset of categorized verbal protocols for the study **"Perceiving Virtual Affordances: A Comparative Study of Users’ Creative Behaviors in Physical and Immersive Virtual Environments"**.
-Participant verbalizations were recorded, transcribed, and systematically coded to identify and categorize creative behaviors. each .csv file contains a table of Verbal protocols (VP), its BDI category, The creative behavior indicator assigned -which in case of it being (Affordance) the type of affordance is provided as (Deny or Affirm). and the Creative behavior type.
+Participant verbalizations were recorded, transcribed, and systematically coded to identify and categorize creative behaviors. each .csv file contains a table of Verbal protocols (VP), its BDI category, the creative behavior indicator assigned -which in case of it being (Affordance) the type of affordance is provided as (Deny or Affirm). and the creative behavior type.
 
 
 The data originates from an experiment where 30 participants completed a treasure hunt task in two environments:
