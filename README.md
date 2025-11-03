@@ -16,3 +16,11 @@ Each file contains data from one group of 10 participants. the groups are sepera
 2. **IVE Specialized**: Virtual Daiba Park, With professional creative training
 3. **IVE Non-Specialized**: Virtual Daiba Park, No formal creative training
 
+## Creative Behavior Taxonomy
+
+Verbalizations were categorized into the following creative behavior (CB) types:
+1.  **Mental CB**: A change in belief about the environment.
+2.  **Bodily CB**: A motor movement independent of environmental constraints.
+3.  **Physical CB**: The implementation of a change by moving objects.
+4.  **Conceptual CB**: The belief that content should be instantaneously edited or added.
+5.  **Constructional CB**: The attempt to create a new object or space.
