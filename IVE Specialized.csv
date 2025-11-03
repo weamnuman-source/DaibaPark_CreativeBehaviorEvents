@@ -1,4 +1,4 @@
-VP,BDI,Creative behavior indicator,Affordance Type (Deny/Affirm),Creativity factor from the IVE
+VP,BDI,Creative behavior indicator,Affordance Type (Deny/Affirm),Creative behavior Type
 I cannot go through the gate,Belief,Affordance Perception,Deny-,Bodily
 i can hear the sea close to the edge,Belief,Affordance Perception,Affirm+,Mental
 I can go to the other side by going down,Belief,Affordance Perception,Affirm+,Bodily
@@ -9,14 +9,14 @@ I can go in the water,Belief,Affordance Perception,Affirm+,Bodily
  i can go down the steep hill,Belief,Affordance Perception,Affirm+,Bodily
 i can go on top of the sculpture,Belief,Affordance Perception,Affirm+,Bodily
 i can get close to the water,Belief,Affordance Perception,Affirm+,Bodily
-i can’t cross the fence from here,Belief,Affordance Perception,Deny-,Bodily
+i canâ€™t cross the fence from here,Belief,Affordance Perception,Deny-,Bodily
 i can not go up from the fence,Belief,Affordance Perception,Deny-,Mental
 I see my hands,Belief,Affordance Perception,Affirm+,Bodily
 i am stuck,Belief,Affordance Perception,Deny-,Bodily
 i can look up,Belief,Affordance Perception,Affirm+,Bodily
 i can go in the tree,Belief,Affordance Perception,Affirm+,Bodily
 i can climb up from here,Belief,Affordance Perception,Affirm+,Bodily
-i can’t Squat down to see,Belief,Affordance Perception,Affirm+,Bodily
+i canâ€™t Squat down to see,Belief,Affordance Perception,Affirm+,Bodily
 this is the end of where i can move,Belief,Affordance Perception,Deny-,Bodily
 i can go on the hill,Belief,Affordance Perception,Affirm+,Bodily
 I am stuck in a tree,Belief,Affordance Perception,Deny-,Bodily
@@ -53,7 +53,7 @@ I can walk without exercise,Intention,Performance,,Bodily
 try to go through the gate,Intention,Performance,,Bodily
 try to jump in,Intention,Performance,,Bodily
 go up the steep hill,Intention,Performance,,Bodily
-I didn’t try it before but i could look up,Intention,Performance,,Bodily
+I didnâ€™t try it before but i could look up,Intention,Performance,,Bodily
 jump in the channel,Intention,Performance,,Bodily
 go over the fence,Intention,Performance,,Bodily
 go in the sculpture,Intention,Performance,,Bodily
@@ -71,7 +71,7 @@ jump in the sea,Intention,Performance,,Bodily
 climb the cliff,Intention,Performance,,Bodily
 move inside the plant,Intention,Performance,,Bodily
 try to jump over,Intention,Performance,,Bodily
-i don’t need the stairs to go up,Belief,"Affordance Perception, Imagining",Affirm+,Conceptual
+i donâ€™t need the stairs to go up,Belief,"Affordance Perception, Imagining",Affirm+,Conceptual
 "I can break the law here, dont need the sign",Belief,"Affordance Perception, Imagining",Affirm+,Conceptual
 the beach has a path that can lead me to the plushie,Belief,"Affordance Perception, Imagining",Affirm+,Conceptual
 odaiba would not have this sound,Belief,"Affordance Perception, Imagining",Deny-,Conceptual
@@ -118,7 +118,7 @@ i reached the limits of where i can go in this direction,Belief,Affordance Perce
 I can see Fuji TV building now unlike before,Belief,Affordance Perception,Affirm+,Mental
 I cannot go this way,Belief,Affordance Perception,Deny-,Mental
 I cannot reach the land from here,Belief,Affordance Perception,Deny-,Mental
-"I can see the rainbow bridge, I hadn’t noticed the bridge before",Belief,Affordance Perception,Affirm+,Mental
+"I can see the rainbow bridge, I hadnâ€™t noticed the bridge before",Belief,Affordance Perception,Affirm+,Mental
 the park is green and i am almost colorblind,Belief,Affordance Perception,Deny-,Mental
 i cannot go to the island,Belief,Affordance Perception,Deny-,Mental
 i cannot go up from here,Belief,Affordance Perception,Deny-,Mental
@@ -127,7 +127,7 @@ i can see my shadow in the water,Belief,Affordance Perception,Affirm+,Mental
 i can go to the edge,Belief,Affordance Perception,Affirm+,Mental
 the fence blocks my way,Belief,Affordance Perception,Affirm+,Mental
 there is a wall telling me i cannot go further,Belief,Affordance Perception,Deny-,Mental
-i can’t go further than this,Belief,Affordance Perception,Deny-,Mental
+i canâ€™t go further than this,Belief,Affordance Perception,Deny-,Mental
 "there are two ways, on the right and the front",Belief,Affordance Perception,Affirm+,Mental
 there is something red in the route in front,Belief,Affordance Perception,Affirm+,Mental
 there is a field of plants and a collapsed tree,Belief,Affordance Perception,Affirm+,Mental
@@ -148,18 +148,18 @@ this is the limit of where i can go,Belief,Affordance Perception,Deny-,Mental
 there is a rope blocking the way,Belief,Affordance Perception,Deny-,Mental
 i could jump over the rope,Belief,Affordance Perception,Affirm+,Mental
 i can move in the sea,Belief,Affordance Perception,Affirm+,Mental
-i can’t escape from inside the cliff,Belief,Affordance Perception,Deny-,Mental
+i canâ€™t escape from inside the cliff,Belief,Affordance Perception,Deny-,Mental
 i can't climb from here,Belief,Affordance Perception,Deny-,Mental
 "there is a fence, i can't climb it",Belief,Affordance Perception,Deny-,Mental
 i cannot go ahead to the buildings,Belief,Affordance Perception,Deny-,Mental
-I can’t go in the plants,Belief,Affordance Perception,Deny-,Mental
+I canâ€™t go in the plants,Belief,Affordance Perception,Deny-,Mental
 the tree is in the way,Belief,Affordance Perception,Deny-,Mental
 i can't go behind the fence,Belief,Affordance Perception,Deny-,Mental
 i can go behind the fence,Belief,Affordance Perception,Affirm+,Mental
 i cannot go beyond the fence,Belief,Affordance Perception,Deny-,Mental
-"there is no cat, and i can’t get in",Belief,Affordance Perception,Deny-,Mental
+"there is no cat, and i canâ€™t get in",Belief,Affordance Perception,Deny-,Mental
 there is a big wood tree being held by wood (stilts),Belief,Affordance Perception,Affirm+,Mental
-I can’t go inside,Belief,Affordance Perception,Deny-,Mental
+I canâ€™t go inside,Belief,Affordance Perception,Deny-,Mental
 The paths lead somewhere important,Belief,"Affordance Perception, Imagining",Affirm+,Mental
 there are trees and a building,Belief,"Affordance Perception, Imagining",Affirm+,Mental
 the plushie is in that light spot,Belief,"Affordance Perception, Imagining",Affirm+,Mental
@@ -167,7 +167,7 @@ i can't go to the bridge,Belief,"Affordance Perception, Imagining",Deny-,Mental
 it could be anywhere like the top of the trees,Belief,"Affordance Perception, Imagining",Affirm+,Mental
 it could be in a place a spirit could get to,Belief,"Affordance Perception, Imagining",Affirm+,Mental
 it is impossible to go up from here this is a game over place,Belief,"Affordance Perception, Imagining",Deny-,Mental
-i can’t climb the wall,Belief,"Affordance Perception, Imagining",Deny-,Mental
+i canâ€™t climb the wall,Belief,"Affordance Perception, Imagining",Deny-,Mental
 the cat is in the tree,Belief,"Affordance Perception, Imagining",Affirm+,Mental
 this is a cemetery,Belief,"Affordance Perception, Imagining",Affirm+,Mental
 it is a tombstone,Belief,"Affordance Perception, Imagining",Affirm+,Mental
@@ -998,3 +998,4 @@ i can move it by pushing the controller,Intention,Performance,,Physical
 ,,,,
 ,,,,
 ,,,,
+
