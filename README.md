@@ -11,5 +11,8 @@ The data originates from an experiment where 30 participants completed a treasur
 1. **Physical Space (PS)**: The physical Daiba Park.
 2. **Immersive Virtual Environment (IVE)**: A high-fidelity virtual replica of the same park.
 
-
+Each file contains data from one group of 10 participants. the groups are seperated based on the location and creative background as follows:
+1. **PS Non-Specialized**: Physical Daiba Park, No formal creative training
+2. **IVE Specialized**: Virtual Daiba Park, With professional creative training
+3. **IVE Non-Specialized**: Virtual Daiba Park, No formal creative training
 
